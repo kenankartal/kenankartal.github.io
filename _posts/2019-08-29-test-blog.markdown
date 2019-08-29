@@ -1,0 +1,22 @@
+---
+title: "Python nedir?"
+layout: post   
+date: 2019-08-29 13:14
+tag: python, programming language
+image: /assets/python-logo@2x.png
+headerImage: true
+projects: false 
+hidden: false # don't count this post in blog pagination
+description: "This is a test blog."
+category: blog
+author: kenankartal
+externalLink: false
+---
+
+<h3>:snake: Python nedir?</h3>
+
+<p>Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Girintilere dayalı basit sözdizimi, dilin öğrenilmesini ve akılda kalmasını kolaylaştırır.</p>
+
+<p>Bu bir test blog yazısıdır.</p>
+
+

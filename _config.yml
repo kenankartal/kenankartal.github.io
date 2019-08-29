@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: kenankartal
 # google: mygoogle
 instagram: kenankartalcomtr
 # pinterest: mypinterest
-linkedin: /in/kenankartal/
+linkedin: kenankartal
 # youtube: myyoutube
 # spotify: myspotify
 github: kenankartal
@@ -48,7 +48,7 @@ github: kenankartal
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 reddit: kenankartal
-medium: medium
+medium: kenankartal
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: kenankartal99@gmail.com
