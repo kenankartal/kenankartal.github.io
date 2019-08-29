@@ -1,9 +1,10 @@
 # main text of home
 name: Kenan Kartal
-bio: A Man who travels the world eating noodles
+bio: young programmer who likes to learn new things about programming
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal blog about technology and stuff related
+# A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -19,7 +20,8 @@ resume-url: https://google.com/?q=my+resume
 url: https://kenankartal.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /:categories/:title
+#/:title/
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -56,21 +58,21 @@ email: kenankartal99@gmail.com
 authors:
     kenankartal:
         name: Kenan Kartal
-        bio: A Man who travels the world eating noodles
+        bio: young programmer who likes to learn new things about programming
         external-image: false
         picture: assets/images/profile.jpg
         twitter: kenankartal
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+#    jamesfoster:
+#        name: James Foster
+#        bio: A Man who develops software with coffee
+#        external-image: false
+#        picture: assets/images/james.jpg
+#        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
